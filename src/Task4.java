@@ -10,6 +10,8 @@ public class Task4 {
             in= new FileInputStream("D:\\University\\2-kurs\\Java\\module123\\Exam4Module\\Exam\\original.txt");
 
             out=new FileOutputStream("copy.txt");
+
+
             int a;
             while((a=in.read())!=-1){
                 out.write((char)a);

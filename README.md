@@ -29,4 +29,4 @@ Bu uslubdan foydalanish uchun faylasuflar ikkala vilkani bir vaqtning o'zida olo
 
 
 
-**Task5:**  
+**Task5:** (\d{2})-(\d{2})-(\d{4}) 
